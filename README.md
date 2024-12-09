@@ -1,9 +1,9 @@
 
 
 ## Hi there 👋
-- 📫 How to reach me is described on the university webpage
-- 🔭 I’m currently working on how to teach (basic) programming skills 
-- 🌱 I’m currently learning a lot
+- 📫 How to reach me is described on the university's website
+- 🔭 I'm currently working on teaching (basic) programming skills 
+- 🌱 I'm currently learning a lot
 
 <!--
 **TJHellmuth/TJHellmuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
