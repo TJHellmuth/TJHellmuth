@@ -1,4 +1,9 @@
+
+
 ## Hi there 👋
+- 📫 How to reach me is described here: https://www.htwg-konstanz.de/hochschule/fakultaeten/maschinenbau/kontakt/professorinnen-professoren
+- 🔭 I’m currently working on how to teach (basic) programming skills 
+- 🌱 I’m currently learning a lot
 
 <!--
 **TJHellmuth/TJHellmuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
