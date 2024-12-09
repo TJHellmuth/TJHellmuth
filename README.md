@@ -1,7 +1,7 @@
 
 
 ## Hi there 👋
-- 📫 How to reach me is described here: https://www.htwg-konstanz.de/hochschule/fakultaeten/maschinenbau/kontakt/professorinnen-professoren
+- 📫 How to reach me is described on the university webpage
 - 🔭 I’m currently working on how to teach (basic) programming skills 
 - 🌱 I’m currently learning a lot
 
